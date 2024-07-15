@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+nav {
+    background-color: #373A3C;
+}
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-size: 1.8rem;
+}
+
+h4 {
+  
+    text-decoration: underline ;
+    text-underline-offset: 10px;
+}
+
+#prefooter {
+    background-color: #DC3545;
+    color: white;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+
+/* #prefooter h1 {
+    padding-top: 10rem;
+} */
+
+#prefooter h3 {
+    padding-bottom: 1rem;
+}
+
+.ricomida {
+    font-family: 'Lobster', cursive;
+}
+
+div button {
+    padding-bottom: 10rem;
+}
+
+footer {
+    background-color: #373A3C;
+}
+
+footer h1 {
+    color: white;
+}
